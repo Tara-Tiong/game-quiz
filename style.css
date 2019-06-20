@@ -11,9 +11,10 @@ button {
     letter-spacing: 3px
 }
 h1 {
-    background-color: azure;
     color:royalblue;
     font-family:comicsansms;
     letter-spacing: 3px
 }
-body {background-image: url("")}
+body {
+    background-image:url("https://media-public.canva.com/MAB5cFxeE3w/2/screen.png");
+}
