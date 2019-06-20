@@ -1,0 +1,16 @@
+button {
+    background-color:azure;
+    font-family:comicsansms;
+    color: royalblue;
+    border-radius: 50%;
+    border-color:lightsteelblue;
+    padding: 26px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+h1 {
+    background-color: azure;
+    color:royalblue;
+    font-family:comicsansms;
+}
