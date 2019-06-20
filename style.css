@@ -1,20 +1,17 @@
 button {
     background-color:azure;
-    font-family:comicsansms;
+    font-family: comicsansms;
     color: royalblue;
     border-radius: 50%;
     border-color:lightsteelblue;
     padding: 26px 30px;
+    /* position: relative;
+    left: 35%; */
     text-align: center;
-    display: inline-block;
     font-size: 16px;
-    letter-spacing: 3px
 }
 h1 {
     color:royalblue;
     font-family:comicsansms;
-    letter-spacing: 3px
-}
-body {
-    background-image:url("https://media-public.canva.com/MAB5cFxeE3w/2/screen.png");
+    text-align: center;
 }
