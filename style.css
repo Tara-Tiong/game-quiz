@@ -1,17 +1,22 @@
 a {
     background-color:azure;
-    font-family:comicsansms;
+    font-family: comicsansms;
     color: royalblue;
     border-radius: 50%;
     border-color:lightsteelblue;
     padding: 26px 30px;
+    /* position: relative;
+    left: 35%; */
     text-align: center;
-    display: inline-block;
     font-size: 16px;
 }
 h1 {
     background-color: azure;
     color:royalblue;
     font-family:comicsansms;
+    text-align: center;
+}
+.container {
+    width: 100%;
     text-align: center;
 }
