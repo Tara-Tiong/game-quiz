@@ -11,6 +11,7 @@ button {
     font-size: 16px;
 }
 h1 {
+    font-size: 50px;
     color:royalblue;
     font-family:comicsansms;
     text-align: center;
@@ -25,10 +26,11 @@ body {
 img {
      width: 50%;
     height: 50%;
-    display: inline-block;
+    float: left;
     
 }
 p {
+    font-size: 30px;
     color: royalblue;
     font-family: trebuchetms;
     background-color: azure;
