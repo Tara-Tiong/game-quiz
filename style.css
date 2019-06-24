@@ -27,3 +27,8 @@ img {
     height: auto;
     display:inline-block;
 }
+p {
+    color: royalblue;
+    font-family: trebuchetms;
+    background-color: aliceblue
+}
