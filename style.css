@@ -23,9 +23,10 @@ body {
     background-image: url("https://media-public.canva.com/MAB5cFxeE3w/2/screen.png")
 }
 img {
-    width: 100%;
-    height: auto;
-    display:inline-block;
+     width: 50%;
+    height: 50%;
+    display: inline-block;
+    
 }
 p {
     color: royalblue;
